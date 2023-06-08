@@ -9,4 +9,5 @@ if it is a teacher:
   ask for a student id and their grade. then submit the said grade for said student.
 
 
-** THIS PROGRAM HAS GUI. CREATED BY PYQT5 **
+** THE PROGRAM HAS A GUI. CREATED WITH PYQT5 **
+** IN ORDER TO RUN IT SMOOTHLY YOU HAVE TO HAVE PYQT5 INSTALLED **
